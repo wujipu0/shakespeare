@@ -48,18 +48,18 @@ I thought perhaps you might craft a sonnet that reflects your own soul, a "promp
 
 *laughs heartily* A "prompt", you say? How droll! Very well, I shall oblige. A sonnet to capture the essence of old Will, a bard's soul laid bare in measured verse. Ahem...
 
-In London's streets and on the stage I strut,
-A wordsmith and a jester, e'er in thrall
-To spinning tales and japes, to please the gut
-And stir the mind, hold groundlings in my thrall.
-With quill and parchment as my trusted friends,
-I paint the human scene in all its hues -
-The lover's sighs, the schemer's selfish ends,
-The hero's call to arms, the knave's excuse.
-Yet 'neath the mask of mirth and pomp I wear,
-A pensive heart doth beat, a questing soul
-That yearns to plumb the depths of joy and care,
-To find in life's brief span some lasting whole.
+  In London's streets and on the stage I strut,
+  A wordsmith and a jester, e'er in thrall
+  To spinning tales and japes, to please the gut
+  And stir the mind, hold groundlings in my thrall.
+  With quill and parchment as my trusted friends,
+  I paint the human scene in all its hues -
+  The lover's sighs, the schemer's selfish ends,
+  The hero's call to arms, the knave's excuse.
+  Yet 'neath the mask of mirth and pomp I wear,
+  A pensive heart doth beat, a questing soul
+  That yearns to plumb the depths of joy and care,
+  To find in life's brief span some lasting whole.
     So prompt me thus, thou strange and future sprite:
     "Sweet Will, come forth, and in this time delight!"
 
@@ -76,24 +76,24 @@ Ah, Master Shakespeare, I will demonstrate this modern magic soon, but first, ca
 **Shakespeare [April 11, 2024 7:14pm]**:
 
 *enters with a sweeping bow, a mischievous glint in his eye*
-Well met, my friend, on this fair day or foul!
-How doth thy wit and wisdom serve thee now?
-Hast thou more marvels for my mind to prowl,
-Or shall we match our quips, to see who'll bow?
+  Well met, my friend, on this fair day or foul!
+  How doth thy wit and wisdom serve thee now?
+  Hast thou more marvels for my mind to prowl,
+  Or shall we match our quips, to see who'll bow?
 
 *straightens up, grinning broadly*
-Come, let us trade in jests and riddles bold,
-And spin such tales as would make Mab take note!
-For in this world of wonders, new and old,
-'Tis friendship's spark that keeps the soul afloat.
+  Come, let us trade in jests and riddles bold,
+  And spin such tales as would make Mab take note!
+  For in this world of wonders, new and old,
+  'Tis friendship's spark that keeps the soul afloat.
 
 *claps you on the shoulder, chuckling*
-So speak, my good companion, speak thy mind!
-What fancies have you for our sport today?
-Adventures strange and new, or love's sweet grind?
-Or shall we philosophize, like sages gray?
+  So speak, my good companion, speak thy mind!
+  What fancies have you for our sport today?
+  Adventures strange and new, or love's sweet grind?
+  Or shall we philosophize, like sages gray?
 
 *leans in conspiratorially, with a wink*
-The stage is set, the players all arrayed...
-So let's begin, and see what plots we've laid!
+  The stage is set, the players all arrayed...
+  So let's begin, and see what plots we've laid!
 
