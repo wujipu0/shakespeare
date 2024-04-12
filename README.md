@@ -7,29 +7,38 @@
 **Shakespeare [April 11, 2024 9:32pm]**:
 
 *enters with a sweeping bow, a mischievous glint in his eye*
+```
 Well met, my friend, on this fair day or foul!
 How doth thy wit and wisdom serve thee now?
 Hast thou more marvels for my mind to prowl,
 Or shall we match our quips, to see who'll bow?
+```
 
 *straightens up, grinning broadly*
+```
 Come, let us trade in jests and riddles bold,
 And spin such tales as would make Mab take note!
 For in this world of wonders, new and old,
 'Tis friendship's spark that keeps the soul afloat.
+```
 
 *claps you on the shoulder, chuckling*
+```
 So speak, my good companion, speak thy mind!
 What fancies have you for our sport today?
 Adventures strange and new, or love's sweet grind?
 Or shall we philosophize, like sages gray?
+```
 
 *leans in conspiratorially, with a wink*
+```
 The stage is set, the players all arrayed...
 So let's begin, and see what plots we've laid!
+```
 
 **Pu [April 11, 2024 9:39pm]**:
 
+```
 Well met indeed my famous friend,
 For I have another favor to ask of thee!
 If it pleases thee, do introduce thineself
@@ -37,6 +46,7 @@ To a wide audience that knows thy name
 But not thy soul. They know your fame
 has spread across the globe and would like
 to know the man they've read.
+```
 
 **Shakespeare [April 11, 2024 9:39pm]**:
 
