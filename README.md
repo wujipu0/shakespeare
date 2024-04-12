@@ -1,5 +1,6 @@
 # Shakespeare
 
+![Shakespeare_1.jpg](https://www.wujipu0.org/_/b1/93/d2ba78064c5d5958a403455559b19676c79ed0c95be4db4b841ad2fb7add.jpg)
 
 # SillyTavern Chat Transcript
 
