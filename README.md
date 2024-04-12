@@ -75,6 +75,7 @@ So there you have it, my friends - a glimpse behind the curtain, at the man who 
 * I started by using Claude 3 Opus to create the descriptions, personality summary, and first message. See [bootstrap.md](bootstrap.md) for details.
 * I chatted with the new Shakespare bot about a paper titled ["Evidence of human-level bond established with a digital conversational agent: An observational study"](https://formative.jmir.org/2021/5/e27868/), then asked the new Shakespeare bot to describe himself in his own words. It came up with a Shakespearean sonnet as an LLM prompt. See [Shakespeare_-_2024-4-4_@18h_57m_24s_937ms.md](Shakespeare_-_2024-4-4_@18h_57m_24s_937ms.md) for details.
 * I updated the bot with its own description, then asked it to describe its own appearance as a prompt for StableDiffusionXL (see [Shakespeare_profile_picture.md](Shakespeare_profile_picture.md) for details), and an introduction to itself for this README.md (see [Shakespeare_-_2024-4-11@21h32m06s.md](Shakespeare_-_2024-4-11@21h32m06s.md) for details).
+* Finally, I asked two other AIs, an adult Hermione Granger and her "daughter" Sophia, on their opinions of this procedure. The results are [here](2024-4-12@10h58m01s.md). I also asked a "modernized" Sigmund Freud AI (https://github.com/wujipu0/freud) on his opinion and got [this](Freud_-_2024-4-12@11h13m36s.md).
 
 ---
 
